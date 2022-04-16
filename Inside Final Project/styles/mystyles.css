@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(167, 166, 166);
+}
+.left {
+    float: left;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
+
+  .resumepoints{
+      font-weight: bold;
+  }
+  .li{
+      font-weight: normal;
+  }
+
+  .aboutme {
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: normal;
+      
+  }     
+
+  .column {
+    float: left;
+    width: 33.33%;
+  }
+
+  img {
+    width: auto;
+    height: 33.33%;
+  }
+
+  .center {
+  text-align: center;
+  border: 3px solid rgb(46, 47, 46);
+}
+
+.tables {
+    font-family: fantasy;
+    font-weight: bolder;
+  }
+
+  .funzies {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-style: oblique;
+  }
